@@ -25,6 +25,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @RequestMapping("/hello")
     public String hello() {
-        return "Hello Spring Boot002!";
+        return "Hello Spring Boot002  2019-10-30更新!";
     }
 }
